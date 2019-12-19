@@ -3,12 +3,12 @@
 ### Author: Holly Davis
 
 ### Links and Resources
-* [submission PR](https://github.com/tutuorial-401js/class-00)
-* [travis](https://travis-ci.com/tutuorial-401js/class-00)
-* [front-end](https://tutorial-401js.herokuapp.com/)
+* [submission PR](https://github.com/hollydavis-401d3/deployment-workshop/pull/1)
+* [travis](https://travis-ci.com/hollydavis-401d3/deployment-workshop/builds/141709610)
+* [front-end](https://hollydavis-prework-deployment.herokuapp.com/)
 
 #### Documentation
-* [jsdoc](https://tutorial-401js.herokuapp.com/docs)
+* [jsdoc](https://hollydavis-prework-deployment.herokuapp.com/docs/)
 
 ### Modules
 #### `pol.js`
@@ -34,7 +34,7 @@ The isAlive() method returns a boolean based on the arg sent in.
 * Assertions Made
   * Assert that isAlive() properly returns a boolean
 * Assertions Remaining
-  * ... Things I want to tests, but didn't yet.
+  * placeholder for notes to TAs about tests I haven't written yet
 
 #### UML
 
