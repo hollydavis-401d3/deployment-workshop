@@ -36,6 +36,7 @@ The isAlive() method returns a boolean based on the arg sent in.
 * Assertions Remaining
   * placeholder for notes to TAs about tests I haven't written yet
 
-#### UML
+#### UML  
+*(the following image is from CodeFellows's Deployment Tutorial)*
 
-![UML Diagram (image from CodeFellows Tutorial)](whiteboard.jpg)
+![UML Diagram](whiteboard.jpg)
